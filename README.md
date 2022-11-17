@@ -10,3 +10,6 @@
 4. go to directory
 
 5. python application.py
+
+
+I used naver news
