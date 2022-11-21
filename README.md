@@ -5,7 +5,7 @@
 
 2. conda activate news_extractive_summary
 
-3. pip install numpy pandas matplotlib scikit-learn konlpy newspaper3k
+3. pip install numpy pandas matplotlib scikit-learn konlpy newspaper3k flask
 
 4. go to directory
 
